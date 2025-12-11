@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: SHABAN-MD
+    name: VORTEX-MD 
     env: node
     plan: free
     repo: https://github.com/MRSHABAN45/SHABAN-MD
