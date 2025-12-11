@@ -1,25 +1,25 @@
 {
-  "name": "SHABAN-MD",
+  "name": "VORTEX-MD",
   "version": "6.0.0",
-  "description": "WHATSAPP BOT CREATED BY MR SHABAN⁴⁵",
+  "description": "WHATSAPP BOT CREATED BY MR 𝐕𝐎𝐑𝐓𝐄𝐗 💙✨",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name SHABAN-MD",
-    "stop": "pm2 stop SHABAN-MD",
-    "restart": "pm2 restart SHABAN-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name VORTEX-MD",
+    "stop": "pm2 stop VORTEX-MD",
+    "restart": "pm2 restart VORTEX-MD"
   },
   "keywords": [
-    "shaban-md",
+    "VORTEX-MD",
     "whatsapp-bot",
     "baileys-bot",
     "multi-device-bot",
-    "shaban",
-    "shaban-md-bot",
+    "Vortex",
+    "VORTEX-MD-BOT",
     "bot-whatsapp",
     "whatsapp-md",
     "nodejs-whatsapp-bot",
-    "mr-shaban",
-    "shaban-ai",
+    "mr-vortex",
+    "vortex-ai",
     "bandaheali-ai",
     "wa-bot",
     "openai-bot",
@@ -27,7 +27,7 @@
     "whatsapp-md-bot",
     "ai-bot",
     "baileys-whatsapp",
-    "shaban-md-whatsapp-bot",
+    "vortex-md-whatsapp-bot",
     "chatbot"
   ],
   "dependencies": {
